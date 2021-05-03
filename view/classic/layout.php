@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<meta charset="utf-8">
 	<title><?php _($title);?></title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@0.4.1/dist/css/mdui.min.css" integrity="sha256-lCFxSSYsY5OMx6y8gp8/j6NVngvBh3ulMtrf4SX5Z5A=" crossorigin="anonymous">
